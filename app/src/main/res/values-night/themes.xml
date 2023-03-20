@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SSLToffeeRnD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryVariant">#03A9F4</item>
+        <item name="colorOnPrimary">#03A9F4</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#03A9F4</item>
+        <item name="colorSecondaryVariant">#03A9F4</item>
+        <item name="colorOnSecondary">#03A9F4</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#03A9F4</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="DialogStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">#F50057</item>
+        <item name="android:textColor">#F50057</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:background">#5E03A9F4</item>
+        <item name="android:indeterminateTint">#F50057</item>
+    </style>
+</resources>
